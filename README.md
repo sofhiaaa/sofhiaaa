@@ -1,6 +1,6 @@
-### Hi there 👋
-oii
-<!--
+### Hi there 
+<!-ola sou sofhiaaa-
+<!-como entrar em contato  comigo-
 **sofhiaaa/sofhiaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
